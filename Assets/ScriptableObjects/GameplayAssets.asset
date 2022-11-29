@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9199f57028054fd6a2847e07282137b0, type: 3}
+  m_Name: GameplayAssets
+  m_EditorClassIdentifier: 
+  boardCellActorPrefab: {fileID: 6436361436107645981, guid: 1334aefc5230f9b41b7a1174c1412b49, type: 3}
+  appleElementActorPrefab: {fileID: 3019506938940736515, guid: f0884f90b931b354696b88c68c63928b, type: 3}
+  fishElementActorPrefab: {fileID: 3598630533322752934, guid: 6127024fe9171024abf98ecb53d363f7, type: 3}
+  iceCreamElementActorPrefab: {fileID: 7931338109321440424, guid: 1b59d7532af4d1748af2851994276b0d, type: 3}
+  jellyBearElementActorPrefab: {fileID: 7733709577910848458, guid: a74f98e59db14274ca6808377b7df6cf, type: 3}
+  pieElementActorPrefab: {fileID: 3409820174067940084, guid: 546a1f47e9c84c54fa7494a91f825037, type: 3}

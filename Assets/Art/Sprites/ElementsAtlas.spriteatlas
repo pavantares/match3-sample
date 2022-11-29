@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElementsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 90d40b30057b3434dabebc85babe9f60, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 08c304e1f61a28e44a77bfef2813eb87, type: 3}
+  - {fileID: 21300000, guid: f25558f2cab809d43a418f8e201d98d1, type: 3}
+  - {fileID: 21300000, guid: 08b45db4954d3c54288f0e38a632e304, type: 3}
+  - {fileID: 21300000, guid: 406e89c482e2de3499e25a3020d1e340, type: 3}
+  - {fileID: 21300000, guid: 9fa7cbe6d4ca1f947b809ff94e2594aa, type: 3}
+  - {fileID: 21300000, guid: e4c912e795a5da9409e92d2b66d7e95e, type: 3}
+  - {fileID: 21300000, guid: 9e8f58e968bb5d74e84129dd94161fb5, type: 3}
+  - {fileID: 21300000, guid: fee071f92731965419cc0887b304fb62, type: 3}
+  - {fileID: 21300000, guid: 5b2f7f1a5668eab458ece82b6aee3ae5, type: 3}
+  - {fileID: 21300000, guid: 8705b5eabe1cefa4681c6656508b89d8, type: 3}
+  - {fileID: 21300000, guid: acd0d6ea6678e9246b3bb186d165c461, type: 3}
+  - {fileID: 21300000, guid: a96ce08b669e4da4a980777dece4da44, type: 3}
+  - {fileID: 21300000, guid: 1e4cc6bce0544134ea31454c82800a10, type: 3}
+  - {fileID: 21300000, guid: 9fbdd16de55ee0b438cdcec322e6e61f, type: 3}
+  - {fileID: 21300000, guid: 1bda058d545bfaf4cb13b7619fc8991d, type: 3}
+  - {fileID: 21300000, guid: a2fadacd7e7d91e45b5dd00efdba1991, type: 3}
+  - {fileID: 21300000, guid: 5b7e6a8e07235dd4d9869f37745e73dd, type: 3}
+  - {fileID: 21300000, guid: 68a47f8f468a24f4499713d853691390, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ice-cream
+  - banana
+  - alga
+  - fish
+  - anchovies
+  - apple
+  - tangerines
+  - porcini
+  - spoon-jam
+  - berries
+  - pie
+  - jelly-bear
+  - meat
+  - eggs
+  - physalis
+  - fried-eggs
+  - pumkin-soup
+  - apple_stump
+  m_RenderDataMap: {}
+  m_Tag: ElementsAtlas
+  m_IsVariant: 0
