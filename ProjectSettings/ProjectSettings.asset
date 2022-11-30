@@ -157,6 +157,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.pavantares.match3
     Standalone: com.DefaultCompany.2DProject
+    iPhone: com.pavantares.match3
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -761,6 +762,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     Android: UNITASK_DOTWEEN_SUPPORT
+    iPhone: UNITASK_DOTWEEN_SUPPORT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
